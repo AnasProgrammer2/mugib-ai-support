@@ -1,3 +1,4 @@
+<img width="996" height="376" alt="Screenshot 2026-04-12 at 7 12 12 PM" src="https://github.com/user-attachments/assets/25ce55b1-16c2-463b-bc22-27a94cd9c00f" />
 # Mugib AI — Intelligent Support Agent
 
 🚀 Mugib is an AI-powered support system designed to act as a real technical support engineer, not just a chatbot.
